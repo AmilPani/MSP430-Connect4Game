@@ -1,5 +1,5 @@
 # MSP430 Connect Four Game
-This lab was the accumulation of its previous labs, with each lab adding more hardware components. This was for my ECE 447 Single-chip Microcomputers course at GMU. I expanded on previous lab code to develop a Connect Four game. 
+This lab was the accumulation of its previous labs, with each lab adding more hardware components. This was for my ECE 447 Single-chip Microcomputers course at GMU. I expanded on previous lab code to develop a Connect Four game. Code Composer Studio was used to develop the code and to program the MSP430.
 ### Setup
 * MSP-EXP430FR6989 LaunchPad
 * LED Matrix
